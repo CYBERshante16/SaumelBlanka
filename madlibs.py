@@ -1,0 +1,5 @@
+feeling=input(" what is a feeling")
+location=input("what is a laction")
+print("The man was"+feeling+" so he went to the"+location+" for a snack.")
+feeling=input("what did emily wanted")
+print("Emily was a very lonely girl she just wanted to be"+feeling+"by someone,but no one could give her the love she wanted.")
